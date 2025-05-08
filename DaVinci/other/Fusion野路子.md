@@ -96,7 +96,7 @@ Shift+Space: 调出工具菜单
 ## 3 文字工具
 
 看图说话吧
-![Fusion](/Users/maverick/Documents/Note/media/2025-02-27.png)
+![Fusion](media/2025-02-27.png)
 
 ## 4 小动画
 
@@ -143,7 +143,7 @@ Shift+Space: 调出工具菜单
 小结: 新手最大的难点在于节点之间的逻辑关系, 形式上表现为节点前后关系和端口之间的对应.
 
 贴张图吧!
-![animation](/Users/maverick/Documents/Note/media/截屏2025-02-28 14.45.57.png)
+![animation](media/2025-02-28.png)
 
 总结:
 1. 以背景为主线, 添加元素以Merge相连, 添加元素连接到Merge前景端口; 分支同理

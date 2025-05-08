@@ -204,12 +204,12 @@ Cmd+Shift+H: 突出显示
 Opt+P: 创建并行节点
 并行混合器可以均等的混合多个节点的调色操作; 类似串行节点, 区别在于并行节点能够从同一节点提取RGB信息.
 
-![并行](/Users/maverick/Documents/Note/media/并行.png)
+![并行](media/并行.png)
 
 ### 4.2 图层节点
 
 Opt+L: 新建图层节点
-![图层](/Users/maverick/Documents/Note/media/图层.png)
+![图层](media/图层.png)
 通过两张图片可以理解并行节点和图层节点的异同; 一般情况下并行节点足够使用
 
 ## 5 群组

@@ -209,7 +209,7 @@ Cmd+左箭头: Fusion页面中将播放头移动到渲染范围起始处.
 - 由于稳定效果会让一部分画面边缘出现空缺, 所以最后一步是适当放大画面, 来填补空缺
 
 最终节点树:
-![image](/Users/maverick/Documents/Note/media/splitCreen.png)
+![image](media/splitCreen.png)
 
 ### 小结:
 
@@ -315,7 +315,7 @@ Cmd+左箭头: Fusion页面中将播放头移动到渲染范围起始处.
 - 激活天空节点, 添加颜色校正器, 调整颜色到不违和.
 
 最终节点树参考:
-![image1](/Users/maverick/Documents/Note/media/2025-03-13.png)
+![image1](media/2025-03-13.png)
 
 ### 小结:
 
@@ -370,7 +370,7 @@ Cmd+左箭头: Fusion页面中将播放头移动到渲染范围起始处.
 
 两个Blur和BrightnessContrast添加位置体现了分支意味着复制的深刻含义
 
-![](/Users/maverick/Documents/Note/media/Robots.png)
+![](media/Robots.png)
 
 ## 4 平面替换(屏幕/路牌/标志等)
 
@@ -458,7 +458,7 @@ Cmd+左箭头: Fusion页面中将播放头移动到渲染范围起始处.
    - 质量: 5
    - 快门角度: 130
 
-![planar](/Users/maverick/Documents/Note/media/PlanarTracker.png)
+![planar](media/PlanarTracker.png)
 
 ### 小结:
 
@@ -494,7 +494,7 @@ Cmd+左箭头: Fusion页面中将播放头移动到渲染范围起始处.
 
 用眼睛的冻结帧来代替有些抽动的眼皮, 保证在整个过程中眼睛保持静止
 
-![](/Users/maverick/Documents/Note/media/man.png)
+![](media/man.png)
 
 任务的关键点在于TimeStretcher创建冻结帧时, 定位与PlanarTracker相同, 且关闭关键帧.
 
@@ -590,7 +590,7 @@ Fusion合成操作使用线性伽马的底层原因是因为数学, 线性更容
 
 实际应用中, 吸管取样位置准确, DeltaKeyer检查器中键控/预蒙版/蒙版参数调整精确, 其他工具可忽略
 
-![](/Users/maverick/Documents/Note/media/Keyer.png)
+![](media/Keyer.png)
 
 ## 6 滚动字幕
 
