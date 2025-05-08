@@ -22,10 +22,12 @@ Date: 2025-05-04
   - `v`: 字符级选择
   - `V`: 行级选择
   - `C-v`: 块级选择
+  
 - Replace mode
   - `r`: 逐字替换, 留在Normal mode
   - `R`: 长期替换, 直到`<Esc>`退回Normal mode
 - Command mode
+![img](images/vimMode.png)
 
 LazyVim 是一种思维模式；它始于对构成现代开发最佳插件配置的共识，以及一个使它们协同工作的配置（管理编辑器配置时，让不同插件的快捷键不相互冲突是主要痛点之一）。
 
